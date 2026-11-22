@@ -1,0 +1,6 @@
+{
+  "name": "Universal Commerce AI Agent",
+  "description": "Multi-category e-commerce intelligence platform for product discovery, supplier comparison, marketplace research, profitability modeling, and multi-provider AI listing optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
